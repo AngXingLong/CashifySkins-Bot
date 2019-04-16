@@ -1,0 +1,27 @@
+C:\Users\Windows\Desktop\SteamBot-master\Bin\Debug\SteamBot.exe.config
+C:\Users\Windows\Desktop\SteamBot-master\SteamBot\obj\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\SteamBot-master\Bin\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot-master\Bin\Debug\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot-master\SteamBot\obj\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot-master\SteamBot\obj\Debug\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot - Newer Version\Bin\Debug\SteamBot.exe.config
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamBot\obj\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamBot\obj\Debug\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot - Newer Version\Bin\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot - Newer Version\Bin\Debug\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamBot\obj\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\SteamBot - Final\Bin\Debug\SteamBot.exe.config
+C:\Users\Windows\Desktop\SteamBot - Final\SteamBot\obj\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot - Final\SteamBot\obj\Debug\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\Bin\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot - Final\Bin\Debug\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\SteamBot\obj\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\Bin\Debug\SteamBot.exe.config
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamBot\obj\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamBot\obj\Debug\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\Bin\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\Bin\Debug\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamBot\obj\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\Steam Project\SteamBot\SteamBot - Final\Bin\Debug\SteamBot.exe.config
+C:\Users\Windows\Desktop\Steam Project\SteamBot\SteamBot - Final\SteamBot\obj\Debug\SteamBot.exe
+C:\Users\Windows\Desktop\Steam Project\SteamBot\SteamBot - Final\SteamBot\obj\Debug\SteamBot.pdb

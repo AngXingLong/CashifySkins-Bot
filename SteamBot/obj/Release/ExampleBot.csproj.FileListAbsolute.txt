@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\SteamBot - Final\Bin\Release\SteamBot.exe.config
+C:\Users\Windows\Desktop\SteamBot - Final\Bin\Release\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot - Final\Bin\Release\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\SteamBot\obj\Release\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\SteamBot - Final\SteamBot\obj\Release\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot - Final\SteamBot\obj\Release\SteamBot.pdb
+B:\Uni Admission\Raw\Raw\Projects\Cashifyskins\Site Files\Localhost\SteamBot - Final\Bin\Release\SteamBot.exe.config
+B:\Uni Admission\Raw\Raw\Projects\Cashifyskins\Site Files\Localhost\SteamBot - Final\SteamBot\obj\Release\SteamBot.exe
+B:\Uni Admission\Raw\Raw\Projects\Cashifyskins\Site Files\Localhost\SteamBot - Final\SteamBot\obj\Release\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\Bin\Release\SteamBot.exe.config
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamBot\obj\Release\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamBot\obj\Release\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\Bin\Release\SteamBot.exe
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\Bin\Release\SteamBot.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamBot\obj\Release\ExampleBot.csprojResolveAssemblyReference.cache
