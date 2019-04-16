@@ -1,0 +1,72 @@
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\SteamTrade.dll
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\SteamTrade.pdb
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\MySql.Data.dll
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\protobuf-net.dll
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\StackExchange.Redis.dll
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\SteamAuth.dll
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\SteamKit2.dll
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\protobuf-net.pdb
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\protobuf-net.xml
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\StackExchange.Redis.xml
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\SteamAuth.pdb
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\bin\Debug\SteamKit2.xml
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\obj\Debug\SteamTrade.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\obj\Debug\SteamTrade.dll
+C:\Users\Windows\Desktop\SteamBot-master\SteamTrade\obj\Debug\SteamTrade.pdb
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\SteamTrade.dll
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\SteamTrade.pdb
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\MySql.Data.dll
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\protobuf-net.dll
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\StackExchange.Redis.dll
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\SteamAuth.dll
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\SteamKit2.dll
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\protobuf-net.pdb
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\protobuf-net.xml
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\StackExchange.Redis.xml
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\SteamAuth.pdb
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\bin\Debug\SteamKit2.xml
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\obj\Debug\SteamTrade.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\obj\Debug\SteamTrade.dll
+C:\Users\Windows\Desktop\SteamBot - Newer Version\SteamTrade\obj\Debug\SteamTrade.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\obj\Debug\SteamTrade.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\obj\Debug\SteamTrade.dll
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\obj\Debug\SteamTrade.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\SteamTrade.dll
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\SteamTrade.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\MySql.Data.dll
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\protobuf-net.dll
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\StackExchange.Redis.dll
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\SteamAuth.dll
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\SteamKit2.dll
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\protobuf-net.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\protobuf-net.xml
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\StackExchange.Redis.xml
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\SteamAuth.pdb
+C:\Users\Windows\Desktop\SteamBot - Final\SteamTrade\bin\Debug\SteamKit2.xml
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\SteamTrade.dll
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\SteamTrade.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\MySql.Data.dll
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\protobuf-net.dll
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\StackExchange.Redis.dll
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\SteamAuth.dll
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\SteamKit2.dll
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\protobuf-net.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\protobuf-net.xml
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\StackExchange.Redis.xml
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\SteamAuth.pdb
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\bin\Debug\SteamKit2.xml
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\obj\Debug\SteamTrade.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\obj\Debug\SteamTrade.dll
+C:\Users\Windows\Desktop\SteamBot\SteamBot - Final\SteamTrade\obj\Debug\SteamTrade.pdb
